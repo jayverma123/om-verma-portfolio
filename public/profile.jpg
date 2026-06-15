@@ -1,0 +1,5 @@
+<img
+  src="/profile.jpg"
+  alt="Om Verma"
+  className="w-full rounded-3xl"
+/>
