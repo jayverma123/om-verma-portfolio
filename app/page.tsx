@@ -311,7 +311,7 @@ export default function Home() {
             {/* Project 1 */}
             <div className="bg-black/40 border border-cyan-500/30 rounded-3xl overflow-hidden backdrop-blur-xl hover:border-cyan-400 transition duration-300">
               <img
-                src="https://imgs.search.brave.com/dtVVQyCC92Ev_b9mu2v_wd6iIisB4Za_tqnMAW7LmdI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvNDk3/ODg0NTk1L3Bob3Rv/L2Ryb25lLWF0LXN1/bnNldC5qcGc_cz02/MTJ4NjEyeJnc9MCZr/PTIwJmM9YTR5Nkww/S1lQODY3Qy1iSTVl/eHQwMXlTQWdhaFRy/TVM0Z0JOeGZaMWVo/Yz0"
+                src="https://imgs.search.brave.com/GBFKSt2cfDNvOUfEO0--evlRKP6G4F8rtv2G2_wt0pQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE2Lzc3LzAxLzI2/LzM2MF9GXzE2Nzcw/MTI2MzJfWG9BRnox/ZkJVNGhzaFpwQ2F5/cHhHQzNUQ0lvdkxR/RHQuanBn"
                 alt="VAINATEYA Drone"
                 className="w-full h-60 object-cover"
               />
